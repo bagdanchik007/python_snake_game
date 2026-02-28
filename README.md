@@ -1,2 +1,2 @@
 # python_snake_game
-Ich habe eine Spiel mit Python gemacht 
+Ich habe ein Spiel mit Python gemacht 
